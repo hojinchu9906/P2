@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<beans>
+    <bean id="index" class="com.main.model.IndexModel"></bean>      <!-- 첫화면 모델-->
+</beans>
